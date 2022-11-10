@@ -1,7 +1,7 @@
 # sentiment_analysis
 Source code to assess sentiments with data in Spanish and plot them according to a dataset through messages.
 
-**Note:** You need to require a dataset containing messages or phrases.You need to require a dataset containing messages or phrases.
+**Note:** You need to require a dataset containing messages or phrases.
 
 ## Create and install the environment
 
